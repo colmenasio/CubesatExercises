@@ -14,3 +14,12 @@ Pycharm trae descarga automatica de proyectos
 
 ## SI USAS COLAB:
 Colab no soporta el formato `.py`. Teneis que copiar y pegar el ejercicio que querais hacer desde esta web (GitHub) a la notebook de colab que vayais a usar
+
+# Librerias
+Recordad descargaros las librerias que vayais a usar.
+Para Vectores Y Matrices necesitareis `Numpy` 
+Para imagen la libreria mas usada es `OpenCv`
+- En pycharm abrid una terminal con `Alt+F12` y escribid `pip install numpy` y `pip install opencv-python`
+- En colab ya vienen instaladas
+
+Algunos ejercicios usan librerías adicionales. Instaladlas como se os indicará en los enunciados
